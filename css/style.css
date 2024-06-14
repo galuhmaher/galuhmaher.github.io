@@ -32,7 +32,7 @@ img {
 
 @media screen and (max-width: 480px) {
     body {
-        font-size: 14px;
+        font-size: 15px;
         }
     }
 
@@ -46,7 +46,7 @@ img {
 header {
     display: flex;
     font-family: "Patua One", serif;
-    font-size: 1.3em;
+    font-size: 1.1em;
     color: #DC5F00;
     justify-content: space-between;
     align-items: center;
