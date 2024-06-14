@@ -91,6 +91,20 @@ main {
     color: #373A40;
 }
 
+.posting ul {
+    margin: 5px 0 5px 10px;
+    padding-left: 10px;
+}
+
+.posting ol {
+    margin: 5px 0 5px 10px;
+    padding-left: 10px;
+}
+
+.posting h2 {
+    margin: 5px 0;
+}
+
 .sh-youtube-new {
     position: relative;
     padding-bottom: 56.25%;
