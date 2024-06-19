@@ -3,6 +3,10 @@
   max-width: 400px;
 }
 
+.sh-apple-music input[type="submit"] {
+  max-width: 100px;
+}
+
 #results {
   margin: 10px 0;
   max-width: 100%;
