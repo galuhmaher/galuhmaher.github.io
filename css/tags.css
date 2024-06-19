@@ -1,0 +1,16 @@
+.inline-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.inline-list ul {
+    margin: 0;
+    padding: 0;
+}
+
+.inline-list li {
+    display: inline;
+margin-right: 10px;
+padding: 0;
+}
