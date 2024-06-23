@@ -11,6 +11,10 @@
 
 .inline-list li {
     display: inline;
-margin-right: 10px;
-padding: 0;
+    margin-right: 10px;
+    padding: 0;
+}
+
+span {
+    margin-right: 0.3em;
 }
