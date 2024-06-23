@@ -47,6 +47,10 @@ time {
     font-size: 1em;
 }
 
+.waktu {
+    margin-bottom: 1.5em;
+}
+
 img {
     max-width: 100%;
 }
