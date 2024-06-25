@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galuh Maher</title>
-    <link>https://galuhmaher.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Galuh Maher</description>
     <generator>Hugo</generator>
     <language>id-id</language>
     <lastBuildDate>Tue, 25 Jun 2024 10:36:25 +0700</lastBuildDate>
-    <atom:link href="https://galuhmaher.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://galuhmaher.com/telegram/</link>
+      <link>http://localhost:1313/telegram/</link>
       <pubDate>Tue, 25 Jun 2024 10:36:25 +0700</pubDate>
-      <guid>https://galuhmaher.com/telegram/</guid>
+      <guid>http://localhost:1313/telegram/</guid>
       <description>CONTENT NOT RENDERED&#xA;Only insert details here if you want to enter any additional detail about the purpose of the redirect, otherwise you can just leave this portion of your file blank.</description>
     </item>
     <item>
       <title>Story</title>
-      <link>https://galuhmaher.com/story/</link>
+      <link>http://localhost:1313/story/</link>
       <pubDate>Sun, 23 Jun 2024 20:56:02 +0700</pubDate>
-      <guid>https://galuhmaher.com/story/</guid>
+      <guid>http://localhost:1313/story/</guid>
       <description>2024 April | Mei | Juni | Juli</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/link/</link>
+      <link>http://localhost:1313/link/</link>
       <pubDate>Sun, 23 Jun 2024 18:15:54 +0700</pubDate>
-      <guid>https://galuhmaher.com/link/</guid>
+      <guid>http://localhost:1313/link/</guid>
       <description>CONTENT NOT RENDERED&#xA;Only insert details here if you want to enter any additional detail about the purpose of the redirect, otherwise you can just leave this portion of your file blank.</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/links/</link>
+      <link>http://localhost:1313/links/</link>
       <pubDate>Sun, 23 Jun 2024 18:09:38 +0700</pubDate>
-      <guid>https://galuhmaher.com/links/</guid>
+      <guid>http://localhost:1313/links/</guid>
       <description>CONTENT NOT RENDERED&#xA;Only insert details here if you want to enter any additional detail about the purpose of the redirect, otherwise you can just leave this portion of your file blank.</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/sd/</link>
+      <link>http://localhost:1313/sd/</link>
       <pubDate>Sun, 16 Jun 2024 11:19:46 +0700</pubDate>
-      <guid>https://galuhmaher.com/sd/</guid>
+      <guid>http://localhost:1313/sd/</guid>
       <description>CONTENT NOT RENDERED&#xA;pw: janganlupa30</description>
     </item>
     <item>
       <title>Apple Music Artwork Downloader</title>
-      <link>https://galuhmaher.com/apple-music/</link>
+      <link>http://localhost:1313/apple-music/</link>
       <pubDate>Fri, 14 Jun 2024 18:10:50 +0700</pubDate>
-      <guid>https://galuhmaher.com/apple-music/</guid>
+      <guid>http://localhost:1313/apple-music/</guid>
       <description>Apple Music Artwork Downloader </description>
     </item>
     <item>
       <title>About</title>
-      <link>https://galuhmaher.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 14 Jun 2024 14:18:19 +0700</pubDate>
-      <guid>https://galuhmaher.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>About Me Nama saya Galuh Maherdika. Dari kecil dipanggil Galuh, dari SMA dipanggil Maher karena ada banyak yang namanya Galuh. Usia 25++ tahun. Tinggal di Pacitan. Musisi Favorit Muse D&amp;rsquo;MASIV Barasuara Noah Man With A Mission HANABIE. Kontak Hubungi saya melalui media sosial di bawah ini :&#xA;Instagram | Threads | Telegram</description>
     </item>
     <item>
       <title>Teleget</title>
-      <link>https://galuhmaher.com/teleget/</link>
+      <link>http://localhost:1313/teleget/</link>
       <pubDate>Fri, 14 Jun 2024 12:51:35 +0700</pubDate>
-      <guid>https://galuhmaher.com/teleget/</guid>
+      <guid>http://localhost:1313/teleget/</guid>
       <description>&#xD;</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>https://galuhmaher.com/hello-world/</link>
+      <link>http://localhost:1313/hello-world/</link>
       <pubDate>Tue, 11 Jun 2024 12:27:32 +0700</pubDate>
-      <guid>https://galuhmaher.com/hello-world/</guid>
+      <guid>http://localhost:1313/hello-world/</guid>
       <description>Sudah beberapa bulan ini saya ngulik-ngulik bearblog, mudah dan nyaman banget nulis disini. Bisa login di hp, menu-menunya simple, nulis pakai markdown dll.&#xA;Cukup install note yang support markdown (saya pake obsidian, ada di playstore), nulis, buka bearblog di browser, copy paste deh. Kalau kamu awam tapi pengen nge-blog juga, bisa banget pake bearblog.&#xA;Tapi masalahnya, dari semua keunggulan itu saya nggak bisa melakukan yang saya pengen. Yaitu pakai subdomain sendiri, note.</description>
     </item>
     <item>
       <title>Now</title>
-      <link>https://galuhmaher.com/now/</link>
+      <link>http://localhost:1313/now/</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://galuhmaher.com/now/</guid>
+      <guid>http://localhost:1313/now/</guid>
       <description>What I&amp;rsquo;m doing now Last Updated: June 19, 2024&#xA;Lokasi Saat Ini: Pacitan, Indonesia&#xA;/Project Mau rilis single Pertama kalinya bikin lagu. Sama sekali belum ngerti prosesnya dari rekaman sampai rilis itu kayak gimana. Jadi, lagu pertama ini sebagai trial &amp;amp; error. Kalo misal hasilnya jelek juga gapapa, bisa di-remake kayak Dewa 19 feat. Virzha.&#xA;Membuat website Sering muncul di google tentang membuat blog hugo, penasaran, jadi saya mencoba membuat blog menggunakan hugo.</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/blog/</link>
+      <link>http://localhost:1313/blog/</link>
       <pubDate>Mon, 02 Jan 2023 16:26:14 +1000</pubDate>
-      <guid>https://galuhmaher.com/blog/</guid>
+      <guid>http://localhost:1313/blog/</guid>
       <description>CONTENT NOT RENDERED&#xA;ke blogspot</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/x/</link>
+      <link>http://localhost:1313/x/</link>
       <pubDate>Mon, 02 Jan 2023 16:26:14 +1000</pubDate>
-      <guid>https://galuhmaher.com/x/</guid>
+      <guid>http://localhost:1313/x/</guid>
       <description>CONTENT NOT RENDERED</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/youtube/</link>
+      <link>http://localhost:1313/youtube/</link>
       <pubDate>Mon, 02 Jan 2023 16:26:14 +1000</pubDate>
-      <guid>https://galuhmaher.com/youtube/</guid>
+      <guid>http://localhost:1313/youtube/</guid>
       <description>CONTENT NOT RENDERED&#xA;ke youtube, belum ada video</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/instagram/</link>
+      <link>http://localhost:1313/instagram/</link>
       <pubDate>Sun, 01 Jan 2023 16:26:14 +1000</pubDate>
-      <guid>https://galuhmaher.com/instagram/</guid>
+      <guid>http://localhost:1313/instagram/</guid>
       <description>CONTENT NOT RENDERED&#xA;redirect ke akun ig</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/threads/</link>
+      <link>http://localhost:1313/threads/</link>
       <pubDate>Sun, 01 Jan 2023 16:26:14 +1000</pubDate>
-      <guid>https://galuhmaher.com/threads/</guid>
+      <guid>http://localhost:1313/threads/</guid>
       <description>CONTENT NOT RENDERED</description>
     </item>
   </channel>

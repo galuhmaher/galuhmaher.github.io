@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Redirects on Galuh Maher</title>
-    <link>https://galuhmaher.com/redirect/</link>
+    <link>http://localhost:1313/redirect/</link>
     <description>Recent content in Redirects on Galuh Maher</description>
     <generator>Hugo</generator>
     <language>id-id</language>
     <lastBuildDate>Tue, 25 Jun 2024 10:36:25 +0700</lastBuildDate>
-    <atom:link href="https://galuhmaher.com/redirect/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/redirect/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://galuhmaher.com/telegram/</link>
+      <link>http://localhost:1313/telegram/</link>
       <pubDate>Tue, 25 Jun 2024 10:36:25 +0700</pubDate>
-      <guid>https://galuhmaher.com/telegram/</guid>
+      <guid>http://localhost:1313/telegram/</guid>
       <description>CONTENT NOT RENDERED&#xA;Only insert details here if you want to enter any additional detail about the purpose of the redirect, otherwise you can just leave this portion of your file blank.</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/link/</link>
+      <link>http://localhost:1313/link/</link>
       <pubDate>Sun, 23 Jun 2024 18:15:54 +0700</pubDate>
-      <guid>https://galuhmaher.com/link/</guid>
+      <guid>http://localhost:1313/link/</guid>
       <description>CONTENT NOT RENDERED&#xA;Only insert details here if you want to enter any additional detail about the purpose of the redirect, otherwise you can just leave this portion of your file blank.</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/links/</link>
+      <link>http://localhost:1313/links/</link>
       <pubDate>Sun, 23 Jun 2024 18:09:38 +0700</pubDate>
-      <guid>https://galuhmaher.com/links/</guid>
+      <guid>http://localhost:1313/links/</guid>
       <description>CONTENT NOT RENDERED&#xA;Only insert details here if you want to enter any additional detail about the purpose of the redirect, otherwise you can just leave this portion of your file blank.</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/sd/</link>
+      <link>http://localhost:1313/sd/</link>
       <pubDate>Sun, 16 Jun 2024 11:19:46 +0700</pubDate>
-      <guid>https://galuhmaher.com/sd/</guid>
+      <guid>http://localhost:1313/sd/</guid>
       <description>CONTENT NOT RENDERED&#xA;pw: janganlupa30</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/blog/</link>
+      <link>http://localhost:1313/blog/</link>
       <pubDate>Mon, 02 Jan 2023 16:26:14 +1000</pubDate>
-      <guid>https://galuhmaher.com/blog/</guid>
+      <guid>http://localhost:1313/blog/</guid>
       <description>CONTENT NOT RENDERED&#xA;ke blogspot</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/x/</link>
+      <link>http://localhost:1313/x/</link>
       <pubDate>Mon, 02 Jan 2023 16:26:14 +1000</pubDate>
-      <guid>https://galuhmaher.com/x/</guid>
+      <guid>http://localhost:1313/x/</guid>
       <description>CONTENT NOT RENDERED</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/youtube/</link>
+      <link>http://localhost:1313/youtube/</link>
       <pubDate>Mon, 02 Jan 2023 16:26:14 +1000</pubDate>
-      <guid>https://galuhmaher.com/youtube/</guid>
+      <guid>http://localhost:1313/youtube/</guid>
       <description>CONTENT NOT RENDERED&#xA;ke youtube, belum ada video</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/instagram/</link>
+      <link>http://localhost:1313/instagram/</link>
       <pubDate>Sun, 01 Jan 2023 16:26:14 +1000</pubDate>
-      <guid>https://galuhmaher.com/instagram/</guid>
+      <guid>http://localhost:1313/instagram/</guid>
       <description>CONTENT NOT RENDERED&#xA;redirect ke akun ig</description>
     </item>
     <item>
       <title></title>
-      <link>https://galuhmaher.com/threads/</link>
+      <link>http://localhost:1313/threads/</link>
       <pubDate>Sun, 01 Jan 2023 16:26:14 +1000</pubDate>
-      <guid>https://galuhmaher.com/threads/</guid>
+      <guid>http://localhost:1313/threads/</guid>
       <description>CONTENT NOT RENDERED</description>
     </item>
   </channel>

@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://galuhmaher.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-06-25T10:36:25+07:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/telegram/</loc>
+    <loc>http://localhost:1313/telegram/</loc>
     <lastmod>2024-06-25T10:36:25+07:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/redirect/</loc>
+    <loc>http://localhost:1313/redirect/</loc>
     <lastmod>2024-06-25T10:36:25+07:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
     <lastmod>2024-06-23T20:56:02+07:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/story/</loc>
+    <loc>http://localhost:1313/story/</loc>
     <lastmod>2024-06-23T20:56:02+07:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/link/</loc>
+    <loc>http://localhost:1313/link/</loc>
     <lastmod>2024-06-23T18:15:54+07:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/links/</loc>
+    <loc>http://localhost:1313/links/</loc>
     <lastmod>2024-06-23T18:09:38+07:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/note/</loc>
+    <loc>http://localhost:1313/note/</loc>
     <lastmod>2024-06-23T16:10:53+07:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/sd/</loc>
+    <loc>http://localhost:1313/sd/</loc>
     <lastmod>2024-06-16T11:19:46+07:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/apple-music/</loc>
+    <loc>http://localhost:1313/apple-music/</loc>
     <lastmod>2024-06-14T18:10:50+07:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-06-14T14:18:19+07:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/teleget/</loc>
+    <loc>http://localhost:1313/teleget/</loc>
     <lastmod>2024-06-14T12:51:35+07:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/tags/hello/</loc>
+    <loc>http://localhost:1313/tags/hello/</loc>
     <lastmod>2024-06-11T12:27:32+07:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/hello-world/</loc>
+    <loc>http://localhost:1313/hello-world/</loc>
     <lastmod>2024-06-11T12:27:32+07:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-06-11T12:27:32+07:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/now/</loc>
+    <loc>http://localhost:1313/now/</loc>
     <lastmod>2024-06-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2023-01-02T16:26:14+10:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/x/</loc>
+    <loc>http://localhost:1313/x/</loc>
     <lastmod>2023-01-02T16:26:14+10:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/youtube/</loc>
+    <loc>http://localhost:1313/youtube/</loc>
     <lastmod>2023-01-02T16:26:14+10:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/instagram/</loc>
+    <loc>http://localhost:1313/instagram/</loc>
     <lastmod>2023-01-01T16:26:14+10:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/threads/</loc>
+    <loc>http://localhost:1313/threads/</loc>
     <lastmod>2023-01-01T16:26:14+10:00</lastmod>
   </url><url>
-    <loc>https://galuhmaher.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
