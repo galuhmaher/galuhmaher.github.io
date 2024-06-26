@@ -66,10 +66,15 @@ header {
     max-width: 750px;
     margin: 0 auto;
     padding: 10px 0 10px 0;
-    border-bottom: 2px solid #222;
+    border-bottom: 2px solid #DC5F00;
 }
 
 header a {
+    color: #222;
+    text-decoration: none;
+}
+
+header a:hover {
     color: #DC5F00;
     text-decoration: none;
 }
@@ -104,7 +109,7 @@ main {
 }
 
 .posting a:hover {
-    text-decoration: transparent;
+    text-decoration: underline;
 }
 
 .posting ul {
@@ -146,6 +151,10 @@ main {
 
 .enter a {
     color: #FFFFFE;
+}
+
+.enter a:hover {
+    text-decoration: none;
 }
 
 .enter-blog {
