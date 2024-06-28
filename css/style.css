@@ -149,6 +149,10 @@ main {
     height: 100%;
     }
 
+.spotify {
+    margin: 5px 0;
+}
+
 .enter a {
     color: #FFFFFE;
 }
