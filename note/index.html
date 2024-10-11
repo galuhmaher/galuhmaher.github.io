@@ -4,8 +4,8 @@
   
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/css/style.css?v=20240628143900">
-    <link rel="stylesheet" href="/css/.css?v=20240628143900">
+    <link rel="stylesheet" href="/css/style.css?v=20241011230000">
+    <link rel="stylesheet" href="/css/.css?v=20241011230000">
     <title>
         
             Notes | Galuh Maher
@@ -35,18 +35,21 @@
 </head>
 <body>
   <header>
-    <div class="site-title">
-    <a href="/">galuhmaher</a>
-</div>
+    <div class="header-border">
+    <div class="logo">
+        <a href="/"><img src="https://telegra.ph/file/34485789250f36c965324.png" /></a>
+    </div>
 
-<nav class="site-nav">
-    <ul class="site-nav_ul">
-        <li class="site-nav_li"><a href="/blog" target="_blank">blog</a></li>
-        <li class="site-nav_li"><a href="/about">about</a></li>
-        <li class="site-nav_li"><a href="/now">now</a></li>
-    </ul>
-</nav>
-    
+    <nav class="menu-nav">
+        <ul class="menu">
+            <li class="menu_li"><a href="/" >HOME</a></li>
+            <li class="menu_li"><a href="/blog" target="_blank">BLOG</a></li>
+            <li class="menu_li"><a href="/about">ABOUT</a></li>
+            <li class="menu_li"><a href="/now">NOW</a></li>
+        </ul>
+    </nav>
+
+</div>
   </header>
   <main>
     <div class="posting">
@@ -54,9 +57,13 @@
   <h1>Notes</h1>
   
   
+  <div class="borderland">
     <div class="artikel"><h2><a href="/hello-world/">Hello World</a></h2>
-    Sudah beberapa bulan ini saya ngulik-ngulik bearblog, mudah dan nyaman banget nulis disini. Bisa …
+    Sudah beberapa bulan ini saya ngulik-ngulik bearblog, mudah dan nyaman banget nulis disini. Bisa login di hp, menu-menunya simple, nulis pakai markdown dll.
+Cukup install note yang support markdown (saya pake obsidian, ada di playstore), nulis, buka bearblog di browser, copy paste deh. Kalau kamu awam tapi pengen nge-blog juga, bisa banget pake bearblog.
+Tapi masalahnya, dari semua keunggulan itu …
   </div>
+</div>
   
 
     </div>
@@ -66,5 +73,18 @@
     <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script> 
     <a href="/">Galuh Maher</a></div>
   </footer>
+
+  <script type="text/javascript">
+		
+		const tombol = document.querySelector('.tombol');
+		const menu = document.querySelector('.menu');
+ 
+		
+		
+		
+		tombol.addEventListener('click', () => {
+			menu.classList.toggle('aktif');
+		});
+</script>
 </body>
 </html>
