@@ -1,0 +1,27 @@
+.sh-apple-music input {
+  padding: 5px;
+  border: 2px solid #222;
+}
+
+.sh-apple-music input:hover {
+  padding: 5px;
+  border: 2px dotted #222;
+}
+
+.sh-apple-music input[type="text"] {
+  width: 100%;
+}
+
+.sh-apple-music input[type="submit"] {
+  max-width: 50%;
+}
+
+#results {
+  margin: 10px 0;
+  max-width: 100%;
+}
+
+table {
+  width: 100%;
+  max-width: 100%;
+}
