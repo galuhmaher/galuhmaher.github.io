@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emties on Galuh Maher</title>
+    <link>http://localhost:1313/emty/</link>
+    <description>Recent content in Emties on Galuh Maher</description>
+    <generator>Hugo</generator>
+    <language>id-id</language>
+    <lastBuildDate>Fri, 28 Jun 2024 11:24:57 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/emty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Link</title>
+      <link>http://localhost:1313/link/</link>
+      <pubDate>Fri, 28 Jun 2024 11:24:57 +0700</pubDate>
+      <guid>http://localhost:1313/link/</guid>
+      <description>Website Pesan Anonim Apple Music Artwork Downloader Spotify Playlist</description>
+    </item>
+  </channel>
+</rss>
