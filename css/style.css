@@ -41,6 +41,7 @@ h2, h3, h4, h5 {
 
 p {
     margin: 0.9em 0;
+    text-align: justify;
 }
 
 time {
@@ -64,6 +65,18 @@ img {
     padding: 0.8em;
     margin-bottom: 1em;
     border: 3px solid #222;
+}
+
+.link-blog {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.link-blog .blogg {
+    text-decoration: none;
+    background-color: #222;
+    color: #FFFFFE;
+    padding: 10px 30px;
 }
 
 /* Header */
