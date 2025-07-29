@@ -58,28 +58,45 @@
         <a class="block bg-zinc-950 hover:bg-zinc-600 text-white text-center text-base font-normal rounded-lg px-2 py-3" href="https://galuhmaher.bearblog.dev/">Blog Homepage</a></div>
 
         <div id="notes-feed" class="bg-[#fffffe] rounded-lg px-2"></div>
-        <script>
-        fetch("https://api.rss2json.com/v1/api.json?rss_url=https://galuhmaher.bearblog.dev/rss/")
-        .then(res => res.json())
-        .then(data => {
-        const container = document.getElementById("notes-feed");
 
-        // Filter hanya item dengan kategori "notes"
-        const notes = data.items.filter(item =>
-        item.categories && item.categories.includes("notes")
-        );
+<script>
+const rssURL = "https://galuhmaher.bearblog.dev/rss/";
+const proxyURL = "https://api.allorigins.win/get?url=" + encodeURIComponent(rssURL);
 
-    // Tampilkan maksimal 3 catatan terbaru
-    notes.slice(0, 3).forEach(item => {
-      const date = new Date(item.pubDate).toDateString();
+fetch(proxyURL)
+  .then(res => res.json())
+  .then(data => {
+    const container = document.getElementById("notes-feed");
+
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(data.contents, "application/xml");
+    const items = xml.querySelectorAll("item");
+
+    let count = 0;
+    items.forEach(item => {
+      const categories = Array.from(item.querySelectorAll("category")).map(cat => cat.textContent.toLowerCase());
+      if (!categories.includes("notes")) return;
+      if (count++ >= 3) return;
+
+      const title = item.querySelector("title")?.textContent || "Tanpa Judul";
+      const link = item.querySelector("link")?.textContent || "#";
+      const pubDate = new Date(item.querySelector("pubDate")?.textContent).toDateString();
+
       container.innerHTML += `
         <div class="my-2 rounded-lg">
-          <a href="${item.link}" target="_blank" class="block bg-zinc-950 hover:bg-zinc-600 text-white text-center text-base font-normal rounded-lg px-2 py-1">${item.title} 
-            <p class="text-sm text-zinc-500">${date}</p></a>
+          <a href="${link}" target="_blank" class="block bg-zinc-950 hover:bg-zinc-600 text-white text-center text-base font-normal rounded-lg px-2 py-1">
+            ${title}
+            <p class="text-sm text-zinc-500">${pubDate}</p>
+          </a>
         </div>`;
     });
+  })
+  .catch(error => {
+    document.getElementById("notes-feed").innerHTML = "<p class='text-red-500'>Gagal memuat catatan terbaru.</p>";
+    console.error("RSS Fetch Error:", error);
   });
 </script>
+
         
         </div>
 
