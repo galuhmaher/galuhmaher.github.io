@@ -39,7 +39,7 @@
           </div>
 
         </div>
-
+      
       </div>
 
       <div class="basis-2/3 text-lg">
@@ -50,9 +50,37 @@
         <div class="overflow-hidden"><iframe class="aspect-video" src="https://www.youtube.com/embed/JIEDR9dn1FY?si=teICowK4GYy-lPv4" frameborder="0" allowfullscreen></iframe></div>
       
         <p class="font-bold text-center text-xl p-2">Links</p>
-        <a class="block bg-zinc-950 hover:bg-zinc-600 text-white text-center text-base font-normal rounded-lg p-3 m-2 mb-3" href="https://galuhmaher.bearblog.dev/">My Blog</a>
         <a class="block bg-zinc-950 hover:bg-zinc-600 text-white text-center text-base font-normal rounded-lg p-3 m-2 mb-3" href="https://ngl.link/galuhmaher2">Pesan Anonim</a>
         <a class="block bg-zinc-950 hover:bg-zinc-600 text-white text-center text-base font-normal rounded-lg p-3 m-2 mb-3" href="/artwork">Artwork Downloader</a>
+        
+        <p class="font-bold text-center text-xl p-2">New Blog Posts</p>
+        <div class="bg-[#fffffe] rounded-lg px-2">
+        <a class="block bg-zinc-950 hover:bg-zinc-600 text-white text-center text-base font-normal rounded-lg px-2 py-3" href="https://galuhmaher.bearblog.dev/">Blog Homepage</a></div>
+
+        <div id="notes-feed" class="bg-[#fffffe] rounded-lg px-2"></div>
+        <script>
+        fetch("https://api.rss2json.com/v1/api.json?rss_url=https://galuhmaher.bearblog.dev/rss/")
+        .then(res => res.json())
+        .then(data => {
+        const container = document.getElementById("notes-feed");
+
+        // Filter hanya item dengan kategori "notes"
+        const notes = data.items.filter(item =>
+        item.categories && item.categories.includes("notes")
+        );
+
+    // Tampilkan maksimal 3 catatan terbaru
+    notes.slice(0, 3).forEach(item => {
+      const date = new Date(item.pubDate).toDateString();
+      container.innerHTML += `
+        <div class="my-2 rounded-lg">
+          <a href="${item.link}" target="_blank" class="block bg-zinc-950 hover:bg-zinc-600 text-white text-center text-base font-normal rounded-lg px-2 py-1">${item.title} 
+            <p class="text-sm text-zinc-500">${date}</p></a>
+        </div>`;
+    });
+  });
+</script>
+        
         </div>
 
         <div class="bg-[#fffffe] rounded-lg m-2 mt-4 p-2">
